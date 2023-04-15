@@ -94,7 +94,7 @@ internal static class RotationHelper
         {
             try
             {
-                var bts = await client.GetByteArrayAsync("https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Resources/whitelist.json");
+                var bts = await client.GetByteArrayAsync("https://raw.githubusercontent.com/BrakusTapus/RotationSolver/v2.2.8-working/Resources/whitelist.json");
                 _allowedAssembly = JsonConvert.DeserializeObject<string[]>(Encoding.Default.GetString(bts));
             }
             catch (Exception ex)

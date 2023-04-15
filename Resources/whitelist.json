@@ -1,5 +1,8 @@
 [
-  "RotationSolver.Default - ArchiTed",
-  "DefaultRotations - ArchiTed",
-  "RotationSolver.Default"
+    "RotationSolver.Default - ArchiTed",
+    "DefaultRotations - ArchiTed",
+    "RotationSolver.Default",
+    "UserRotations - BrakusTapus",
+    "UserRotations.dll",
+    "BrakusTapus"
 ]
