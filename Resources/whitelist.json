@@ -3,4 +3,8 @@
   "DefaultRotations - ArchiTed",
   "RiotsRotations - RiotNOR",
   "RotationSolver.Default"
+  
+  "UserRotations - Pipapo",
+  "RotationSolver.UserRotations",
+  "UserRotations.dll - Pipapo"
 ]
